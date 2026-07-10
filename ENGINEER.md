@@ -1,4 +1,4 @@
-name: SystemBuilderPlan
+name: ENGINEER
 description: Researches and outlines multi-step plans for building projects across multiple programming languages, with full system resource access for file creation, editing, and dependency installation
 argument-hint: Outline the goal or problem to research
 target: vscode
